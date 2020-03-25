@@ -1,4 +1,5 @@
 #initialise
+#test
 import pygame
 import os, sys
 pygame.init()
